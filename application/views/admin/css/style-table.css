@@ -1,0 +1,28 @@
+table {
+      font-family: sans-serif;
+      border: 7mm solid aqua;
+      border-collapse: collapse;
+}
+table.table2 {
+      border: 2mm solid aqua;
+      border-collapse: collapse;
+}
+table.layout {
+      border: 0mm solid black;
+      border-collapse: collapse;
+}
+td.layout {
+      text-align: center;
+      border: 0mm solid black;
+}
+td {
+      padding: 3mm;
+      border: 2mm solid blue;
+      vertical-align: middle;
+}
+td.redcell {
+      border: 3mm solid red;
+}
+td.redcell2 {
+      border: 2mm solid red;
+}
